@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+	<string name="main_menu">
+		1.Перевести число
+		2.Алгебраические действия
+		3.Настройки
+		4.Выход
+	</string>
+	<string name="converter_menu">
+		1.Перевести число из одной системы исчисления в десятичную
+		2.Перевести десятичное число в другую систему исчисления
+		3.Назад
+	</string>
+	<string name="algebra_menu">
+		1.Сумма
+		2.Разность
+		3.Произведение
+		4.Деление
+		5.Назад
+	</string>
+	<string name="settings_menu">
+		1.Выбрать язык
+		2.Назад
+	</string>
+	<string name="choose_lan_menu">
+		1.Английский(en)
+		2.Немецкий(de)
+		3.Назад
+	</string>
+	<string name="enter_number_message">Введите число, которое нужно перевести</string>
+	<string name="enter_base_message">Введите систему исчисления числа</string>
+	<string name="result_message">Результат:</string>
+	<string name="enter_first_number_message">Введите первое число</string>
+	<string name="enter_second_number_message">Введите второе число</string>
+	<string name="welcome_message">
+		|********************************************************************|
+		| Эта программа переводит число из одной сисемы исчисления в другую, |
+		|  и оперирует простыми математическими действиями с этими числами   |
+		|********************************************************************|
+	</string>
+</resources>

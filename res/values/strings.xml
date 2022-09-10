@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<string name="main_menu">
+		1.Convert number
+		2.Algebra
+		3.Settings
+		4.Exit
+	</string>
+	<string name="converter_menu">
+		1.Convert number from another base to decimal
+		2.Convert decimal number to another base
+		3.Back
+	</string>
+	<string name="algebra_menu">
+		1.Addition
+		2.Commutation
+		3.Multiplication
+		4.Division
+		5.Back
+	</string>
+	<string name="settings_menu">
+		1.Choose language
+		2.Back
+	</string>
+	<string name="choose_lan_menu">
+		1.German(de)
+		2.Russian(ru)
+		3.Back
+	</string>
+	<string name="enter_number_message">Enter a number to convert</string>
+	<string name="enter_base_message">Enter a base of the number</string>
+	<string name="result_message">Result:</string>
+	<string name="enter_first_number_message">Enter first number</string>
+	<string name="enter_second_number_message">Enter second number</string>
+	<string name="welcome_message">
+		|***************************************************************|
+		|This program converts numbers from one number system to another|
+		|                 		and some math                           |
+		|***************************************************************|
+	</string>
+</resources>
