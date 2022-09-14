@@ -20,7 +20,11 @@
 	</string>
 	<string name="settings_menu">
 		1.Choose language
-		2.Back
+		2.Show history
+		3.Delete previous record
+		4.Clear history
+		5.Turn off history tracking
+		6.Back
 	</string>
 	<string name="choose_lan_menu">
 		1.German(de)

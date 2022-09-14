@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
 	<string name="main_menu">
-		1.Wandeln eine Zahl
-		2.Algebra
-		3.Einstellungen
+		1. Wandeln eine Zahl
+		2. Algebra
+		3. Einstellungen
 		4.Ausgang
 	</string>
 	<string name="converter_menu">
-		1.Wandeln Sie eine Zahl von einer anderen Basis in eine Dezimalzahl
-		2.Wandeln Sie eine Dezimalzahl in eine andere Basis um
-		3.Komm zurück
+		1. Wandeln Sie eine Zahl von einer anderen Basis in eine Dezimalzahl
+		2. Wandeln Sie eine Dezimalzahl in eine andere Basis um
+		3. Komm zurück
 	</string>
 	<string name="algebra_menu">
-		1.Zusatz
-		2.Commutation
-		3.Kommutierung
-		4.Aufteilung
-		5.Komm zurück
+		1. Zusatz
+		2. Commutation
+		3. Kommutierung
+		4. Aufteilung
+		5. Komm zurück
 	</string>
 	<string name="settings_menu">
 		1.Sprache wählen
-		2.Komm zurück
+		2. Zeige die Geschichte
+		3. Vorherigen Datensatz löschen
+		4. Verlauf löschen
+		5. Schalten Sie die Verlaufs verfolgung aus
+		6. Komm zurück
 	</string>
 	<string name="choose_lan_menu">
 		1.Englisch(en)
@@ -35,7 +39,8 @@
 	<string name="welcome_message">
 		|***************************************************************|
 		|    Dieses Programm konvertiert Zahlen von einem Zahlensystem  |
-		|              in ein anderes und etwas Mathematik              |
+		|             in ein anderes und etwas Mathematik 				|
+		|				 Translated by Google Translate;)				|
 		|***************************************************************|
 	</string>
 </resources>

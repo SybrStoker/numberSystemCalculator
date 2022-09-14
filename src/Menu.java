@@ -6,18 +6,18 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 
-public class Menu {
-    void idk(){
-        Document doc;
-        try {
-            DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder db = factory.newDocumentBuilder();
-            doc = db.parse(new File(Main.FILE_NAME));
+public class Menu implements Runnable {
+    ArrayList<String> history = new ArrayList<>();
+    File historyFile = new File(Main.HISTORY_FILE_PATH);
 
-        } catch (ParserConfigurationException | IOException | SAXException e) {
-            throw new RuntimeException(e);
-        }
+    Menu(){
+        run();
+    }
 
+    @Override
+    public void run() {
+        System.out.println("Womp! Womp!");
     }
 }
